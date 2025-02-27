@@ -36,14 +36,6 @@ Order Date & Delivery Date Filters: Allows selection of specific time periods.
 
 Occasion Filter: Enables users to filter revenue by occasion.
 
-## 🚀 How to Use
-
-Open the Excel file containing the dashboard.
-
-Use filters to analyze specific time periods or categories.
-
-View graphs and charts for insights into sales performance.
-
 ## 📷 Dashboard Preview
 
 ![Image](https://github.com/user-attachments/assets/0780e515-26cb-4b19-90e4-a5e37eaf746b)
